@@ -33,15 +33,15 @@ def td_to_str(td):
 
 def show():
 
-    st.write("👉 How frequently it happens that your running or cycling activities are **interrupted** by a red traffic light,"
+    st.write("👉 How frequently does it happen that your running or cycling activities are **interrupted** by a red traffic light,"
              " the need to drink some water, or simply to wait your partner to reach you? 🤔")
     st.write("👉 Even if you pause your watch during your activity, thus not recording any distance, it will still continue to record your total time"
-             " which will be then showed as your **elapsed time** in your application such as Strava. However, Strava"
+             " which will be then shown as your **elapsed time** in your application such as Strava. However, Strava"
              " will count this time instead than your **moving time** to compute your Personal Records and the Segments"
              " leaderboard, thus showing a time longer than what your real effort was.")
     st.write("👉 The goal of this application is to **modify** the **gpx file** of your activity such to make the elapsed"
              " time coincide with your moving time while leaving all the other data unchanged. You will then be able to"
-             " download your new gpx file and upload it on Strava or in your desired platform.")
+             " download your new gpx file and upload it on Strava or on your desired platform.")
     st.write("👉 Feel free to report any bug or suggestion on [Github](https://github.com/davide97l/gpx-cleaner) and leave a ⭐ if you found it useful.")
     st.write("⚠️ Currently are only supported GPX files whose GPS synchronization frequency is exactly 1 second.")
 

@@ -2,13 +2,11 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davide97l/gpx-cleaner/main)
 
-👉 How frequently it happens that your running or cycling activities are **interrupted** by a red traffic light,  the need to drink some water, or simply to wait your partner to reach you? 🤔
+👉 How frequently does it happen that your running or cycling activities are **interrupted** by a red traffic light,  the need to drink some water, or simply to wait for your partner to reach you? 🤔
 
-👉 Even if you pause your watch during your activity, thus not recording any distance, it will still continue to record your total time which will be then showed as your **elapsed time** in your application such as Strava.
-However, Strava will count this time instead than your **moving time** to compute your Personal Records and the Segments leaderboard, thus showing a time longer than what your real effort was.
+👉 Even if you pause your watch during your activity, thus not recording any distance, it will still continue to record your total time which will be then shown as your **elapsed time** in your application such as Strava. However, Strava will count this time instead than your **moving time** to compute your Personal Records and the Segments leaderboard, thus showing a time longer than what your real effort was.
 
-👉 The goal of this application is to **modify** the **gpx file** of your activity such to make the elapsed
- time coincide with your moving time while leaving all the other data unchanged. You will then be able to download your new gpx file and upload it on Strava or in your desired platform.
+👉 The goal of this application is to **modify** the **gpx file** of your activity to make the elapsed time coincide with your moving time while leaving all the other data unchanged. You will then be able to download your new gpx file and upload it on Strava or on your desired platform.
 
 👉 Feel free to report any bug or suggestion on [Github](https://github.com/davide97l/gpx-cleaner) and leave a ⭐ if you found it useful.
 
