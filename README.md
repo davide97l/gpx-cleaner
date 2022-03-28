@@ -7,7 +7,6 @@
 👉 Even if you pause your watch during your activity, thus not recording any distance, it will still continue to record your total time which will be then showed as your **elapsed time** in your application such as Strava.
 However, Strava will count this time instead than your **moving time** to compute your Personal Records and the Segments leaderboard, thus showing a time longer than what your real effort was.
 
-
 👉 The goal of this application is to **modify** the **gpx file** of your activity such to make the elapsed
  time coincide with your moving time while leaving all the other data unchanged. You will then be able to download your new gpx file and upload it on Strava or in your desired platform.
 
