@@ -10,6 +10,7 @@ However, Strava will count this time instead than your **moving time** to comput
 
 👉 The goal of this application is to **modify** the **gpx file** of your activity such to make the elapsed
  time coincide with your moving time while leaving all the other data unchanged. You will then be able to download your new gpx file and upload it on Strava or in your desired platform.
+
 👉 Feel free to report any bug or suggestion on [Github](https://github.com/davide97l/gpx-cleaner) and leave a ⭐ if you found it useful.
 
 <p align="center">
