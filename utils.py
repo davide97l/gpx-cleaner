@@ -43,6 +43,7 @@ def show():
              " time coincide with your moving time while leaving all the other data unchanged. You will then be able to"
              " download your new gpx file and upload it on Strava or in your desired platform.")
     st.write("👉 Feel free to report any bug or suggestion on [Github](https://github.com/davide97l/running-performance-calculator) and leave a ⭐ if you found it useful.")
+    st.write("⚠️ Currently are only supported GPX files whose GPS synchronization frequency is exactly 1 second.")
 
     gpx_file_raw = st.file_uploader("📂 Upload your activity.gpx file", type=["gpx"], accept_multiple_files=False)
     if gpx_file_raw is not None:

@@ -17,7 +17,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 """
 # GPX time cleaner 🏃
-[![Star](https://img.shields.io/github/stars/davide97l/running-performance-calculator.svg?logo=github&style=social)](https://gitHub.com/davide97l/running-performance-calculator/)
+[![Star](https://img.shields.io/github/stars/davide97l/gpx-cleaner.svg?logo=github&style=social)](https://gitHub.com/davide97l/gpx-cleaner/)
 """
 
 utils.show()
